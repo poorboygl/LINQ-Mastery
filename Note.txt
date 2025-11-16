@@ -1,1 +1,4 @@
+git reset head^
+git push origin +main
+
 Easy levels-lesson00x
