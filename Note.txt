@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=YdakCgBMuqg
 
 https://www.linkedin.com/in/usman-khalid-39b8542a1/
 
+dotnet new console 
+
 Easy levels-lesson00x
 Medium Levels-lesson00x
 Hard Levels-lesson00x
