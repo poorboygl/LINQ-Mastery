@@ -17,3 +17,7 @@ Easy levels-lesson00x
 Medium Levels-lesson00x
 Hard Levels-lesson00x
 Expert Levels-lesson00x
+
+🔹 Parallel.ForEach version
+🔹 PLINQ version
+🔹 Super-optimized version (Dictionary + PLINQ)
